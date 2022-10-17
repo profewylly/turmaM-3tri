@@ -1,5 +1,5 @@
 body {
-background: #CCCCCC;
+
 }
 
 #banner{
@@ -8,6 +8,11 @@ background: #CCCCCC;
   margin-left: 40%;
   border: dotted #145ba7;
 }
+
+.principal{
+background: #CCCCCC;
+}
+
 
 h1{
 text-align: center
