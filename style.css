@@ -17,3 +17,7 @@ font-size: 20px
 em strong{
 color: rgb(0,0,255);
 }
+
+.tens{
+    font-style: italic
+}
